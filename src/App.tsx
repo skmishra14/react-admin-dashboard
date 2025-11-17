@@ -1,9 +1,9 @@
-import './index.css'
+
 function App() {
 
   return (
     <>
-    <h1 className='bg-amber-500'>Testing page</h1>
+      <h1>Testing</h1>
     </>
   )
 }
