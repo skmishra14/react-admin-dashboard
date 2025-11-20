@@ -9,7 +9,7 @@ function Layout () {
         <div className="min-h-screen bg-gray-800 text-amber-50">
             <Navbar />
             <div className="flex">
-                <div className="main w-[250px] px-5 py-[5px] border-r-2 border-r-gray-400">
+                <div className="main w-[250px] px-5 py-[5px] border-r-2 border-r-gray-700">
                     <Menu />
                 </div>
                 <div className="container w-full px-5 py-[5px]">
