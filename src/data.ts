@@ -48,7 +48,7 @@ export const menu = [
         ]
     },
     {
-       id: 3,
+        id: 3,
         title: "GENERAL",
         listItems: [
             {
@@ -112,5 +112,36 @@ export const menu = [
                 icon: "log.svg"
             }
         ]
+    }
+];
+
+export const topDealsUser = [
+    {
+        id:1,
+        img: "home.svg",
+        username: "First User",
+        email: "first.user@user.com",
+        amount: "123"
+    },
+    {
+        id:2,
+        img: "home.svg",
+        username: "Second User",
+        email: "second.user@user.com",
+        amount: "123"
+    },
+    {
+        id:3,
+        img: "home.svg",
+        username: "Third User",
+        email: "third.user@user.com",
+        amount: "123"
+    },
+    {
+        id:4,
+        img: "home.svg",
+        username: "Fourth User",
+        email: "fourth.user@user.com",
+        amount: "123"
     }
 ];
